@@ -1,6 +1,6 @@
 <h1>
   <p align="center">
-3-D Modelling Portfolio
+3-D Modeling Portfolio
   <h1>
   <img src="githubbanner.png" width="100%">
 </p>
@@ -22,10 +22,10 @@
    
 <h1>
    
-<h2 align="center">Mechanical Designer | Virtual Environment Modeller | 3-D Asset Designer | Additive Manufacturing</h2>
+<h2 align="center">Mechanical Designer | Virtual Environment Modeler | 3-D Asset Designer </h2>
 
 <p align="center">
-Research Assistant | Additive Manufacturing | Parametric CAD | FEA
+Level Designer and World Builder | Additive Manufacturing | Parametric CAD | FEA
 </p>
 
 ---
