@@ -168,8 +168,8 @@ My portfolio demonstrates experience in parametric CAD modeling, mechanism desig
 <td align="center">
 
 <b>Nutcracker-Mechanism-Assembly</b><br>
-<a href="https://github.com/Jose-Rodriguez-22/Nutcracker-Mechanism-Assembly">
-<img src="https://github.com/Jose-Rodriguez-22/Nutcracker-Mechanism-Assembly/blob/main/nutcracker_motion.gif" width="220">
+<a href="https://github.com/gregalado24/Nutcracker.git">
+<img src="https://github.com/gregalado24/Nutcracker/blob/6dba5f710b1a7565f1575cfaa840235eb6b4f65e/nutcracker_motion.gif" width="220">
 </a>
 
 </td>
