@@ -22,10 +22,10 @@
    
 <h1>
    
-<h2 align="center">Mechanical Design Engineer | Parametric CAD | Mechanism Simulation | Additive Manufacturing</h2>
+<h2 align="center">Mechanical Design Engineer | Parametric CAD | Mechanism Simulation | Additive Manufacturing | Virtual Environment Designer | 3-D Asset Designer </h2>
 
 <p align="center">
-Research Assistant | Additive Manufacturing | Parametric CAD | FEA
+Additive/Custom Manufacturing | Parametric CAD | FEA | Level Design & World Building | Video Game 3-D Model Creation 
 </p>
 
 ---
