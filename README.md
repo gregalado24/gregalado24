@@ -221,7 +221,8 @@ My portfolio demonstrates experience in parametric CAD modeling, mechanism desig
 
 <b>Wind Turbine Parts</b><br>
 <a href="https://github.com/gregalado24/Turbine-Parts.git">
-<img width="1632" height="966" alt="Screenshot 2026-02-28 161221" src="https://github.com/user-attachments/assets/f08ddab0-005c-4cda-ab5f-bc07fc56e677" />
+<img width="2556" height="1369" alt="Part 4 - 39" src="https://github.com/user-attachments/assets/887bae4d-6ef0-4152-934c-ed7509106d64" />
+
 
 </tr>
 </table>
