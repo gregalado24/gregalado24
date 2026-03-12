@@ -216,26 +216,3 @@ My portfolio demonstrates experience in parametric CAD modeling, mechanism desig
 
 </tr>
 </table>
-
-### 🔥 My Stats:
-
-<div id="stats"
-  <a href="https://github.com/Jose-Rodriguez-22/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jose-Rodriguez-22&show_icons=true&theme=synthwave" />
-  </a>
-  <a href="https://github.com/Jose-Rodriguez-22/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Rodriguez-22&theme=synthwave&layout=compact" />
-  </a>
-  
- <a href="https://git.io/streak-stats">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Jose-Rodriguez-22&theme=synthwave&border_radius=4.6&date_format=%5BY.%5Dn.j"/>
-</a>
-
-   <a href="https://github.com/Jose-Rodriguez-22/github-readme-stats">
-   <!--START_SECTION:waka-->
-     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jose-Rodriguez-22"/>
-     <!--END_SECTION:waka-->
-   </a>
-</div>
-
-### ✍️ Blog Posts :
