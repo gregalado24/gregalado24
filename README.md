@@ -204,6 +204,16 @@ My portfolio demonstrates experience in parametric CAD modeling, mechanism desig
 
 </td>
 
+<td align="center">
+
+<b>Game Design</b><br>
+<a href="https://github.com/gregalado24/Nutcracker.git">
+<img width="1632" height="966" alt="Screenshot 2026-02-28 161221" src="https://github.com/user-attachments/assets/f08ddab0-005c-4cda-ab5f-bc07fc56e677" />
+
+</a>
+
+</td>
+
 </tr>
 </table>
 
