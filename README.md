@@ -41,17 +41,16 @@ Additive/Custom Manufacturing | Level Design & World Building | Video Game 3-D M
  Parametric CAD (AutoCAD, Inventor) -
  Multiple Game Engines (Unreal Engine 4 & 5, Godot, Unity)-
  Product design -
- Wire Arc Additive Manufacturing (WAAM) -
  Simulation-driven optimization (ANSYS) - 
  
 
-My portfolio demonstrates experience in parametric CAD modeling, mechanism design, motion simulation, engineering analysis using PTC Creo and ANSYS, and Level Design and World Building using multiple game engines.
+My portfolio demonstrates experience in parametric CAD modeling, mechanism/product design, motion simulation, and Level Design and World Building using multiple game engines.
 
 ## 📬 Contact
 📍 Dallas, Texas  
 📫 Here is my contact information: 
          -  📧e3363384@student.dcccd.edu
-         -  469-857-9880
+         -  📞469-857-9880
          - <p align="center">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70px"/>
   <a href="https://www.linkedin.com/in/gregory-regalado-jimenez-098772260">
