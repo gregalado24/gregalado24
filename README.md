@@ -28,21 +28,20 @@
    
 <h1>
    
-<h2 align="center">Mechanical Designer | Parametric CAD | Mechanism Simulation | Manufacturing | Virtual Environment Designer | 3-D Asset Designer </h2>
+<h2 align="center">Mechanical/Product Designer | CAD | Mechanism Simulation | Manufacturing | Virtual Environment Designer | 3-D Asset Designer </h2>
 
 <p align="center">
-Additive/Custom Manufacturing | Parametric CAD | Level Design & World Building | Video Game 3-D Model Creation 
+Additive/Custom Manufacturing | Level Design & World Building | Video Game 3-D Model Creation 
 </p>
 
 ---
    
 ## 🚀 About Me
    - 🔭 _I am an Engineering and Game Development student at **Dallas College** specializing in:_ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
- Parametric CAD systems (SolidWorks, Inventor) -
+ Parametric CAD (AutoCAD, Inventor) -
  Multiple Game Engines (Unreal Engine 4 & 5, Godot, Unity)-
- Structural design -
+ Product design -
  Wire Arc Additive Manufacturing (WAAM) -
- Laser Powder Bed Fusion (LPBF) -
  Simulation-driven optimization (ANSYS) - 
  
 
@@ -52,6 +51,7 @@ My portfolio demonstrates experience in parametric CAD modeling, mechanism desig
 📍 Dallas, Texas  
 📫 Here is my contact information: 
          -  📧e3363384@student.dcccd.edu
+         -  469-857-9880
          - <p align="center">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70px"/>
   <a href="https://www.linkedin.com/in/gregory-regalado-jimenez-098772260">
