@@ -17,7 +17,7 @@
    
 <h1 align="center">Mechanical/Product Designer | CAD | Mechanism Simulation | Manufacturing | Virtual Environment Designer | 3-D Asset Designer </h2>
 
-<p align="center">
+<h2 align="center">
 Additive/Custom Manufacturing | Level Design & World Building | Video Game 3-D Model Creation 
 </p>
 
@@ -26,7 +26,11 @@ Additive/Custom Manufacturing | Level Design & World Building | Video Game 3-D M
 
   <div id="header" align="center">
   <img width="2542" height="1185" alt="GuideAssembly.png" src="https://github.com/gregalado24/Product-Design-and-Manufacturing/blob/main/GuideAssembly.png" />
-    
+
+  <div id="header" align="center">
+  <img width="2542" height="1185" alt=" LinearShaftSupportBlock.png" src="https://github.com/gregalado24/Product-Design-and-Manufacturing/blob/main/LinearShaftSupportBlock.png" />
+
+ 
   <div id="header" align="center">
   <img width="2542" height="1185" alt="Screenshot 2026-01-18 223952" src="https://github.com/user-attachments/assets/45055e2f-984b-4067-9310-c9ace1509fa6" />
   
@@ -37,101 +41,72 @@ Additive/Custom Manufacturing | Level Design & World Building | Video Game 3-D M
 
 ---
    
-## 🚀 About Me
-   - 🔭 _I am an Engineering and Game Development student at **Dallas College** specializing in:_ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+# 🚀 About Me
+  🔭 _I am an Engineering and Game Development student at **Dallas College** specializing in:_ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  Parametric CAD (AutoCAD, Inventor) -
  Multiple Game Engines (Unreal Engine 4 & 5, Godot, Unity)-
- Product design -
- Simulation-driven optimization (ANSYS) - 
+ Product design (AutoCAD/Inventor)
  
 
 My portfolio demonstrates experience in parametric CAD modeling, mechanism/product design, motion simulation, and Level Design and World Building using multiple game engines.
 
-## 📬 Contact
+# 📬 Contact
 📍 Dallas, Texas  
 📫 Here is my contact information: 
          -  📧e3363384@student.dcccd.edu
          -  📞469-857-9880
          - <p align="center">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70px"/>
-  <a href="https://www.linkedin.com/in/gregory-regalado-jimenez-098772260">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="200" height="100"/> 
+      <a href="https://www.linkedin.com/in/gregory-regalado-jimenez-098772260">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="200" height="100"/> 
   
 ---   
 <h2 align="center">🛠 CAD & Design Software</h2>
 
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/PTC_Creo_logo.svg/500px-PTC_Creo_logo.svg.png?_=20210507110131" width="80"/><br/>
-      <strong>PTC Creo</strong>
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/SolidWorks_logo.tiff/lossless-page1-960px-SolidWorks_logo.tiff.png?_=20160417053209" width="80"/><br/>
-      <strong>SolidWorks</strong>
-    </td>
-    <td align="center">
-      <img src="https://cadtalk.com/wp-content/uploads/2024/10/Autodesk-Inventor-Logo-Vector.svg-.png" width="80"/><br/>
-      <strong>Autodesk Inventor</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
+      <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/AutoCAD-logo.png" width="80"/><br/>
       <strong>AutoCAD</strong>
-    </td>
-    <td align="center">
-      <img src="https://www.trustradius.com/_next/image?url=https%3A%2F%2Fmedia.trustradius.com%2Fproduct-logos%2Ft8%2FN2%2FTJQW95QJQX49-180x180.PNG&w=128&q=75" width="80"/><br/>
-      <strong>FreeCAD</strong>
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Logo_on_White_Background_JPG.jpg" width="80"/><br/>
-      <strong>Ansys</strong>
-    </td>
+      </td>
+      <td align="center">
+      <img src="https://cadtalk.com/wp-content/uploads/2024/10/Autodesk-Inventor-Logo-Vector.svg-.png" width="80"/><br/>
+      <strong>Autodesk Inventor</strong>
+      </td>
   </tr>
-  <tr>
-    <td align="center">
+      <td align="center">
       <img src="https://fontmeme.com/images/unreal-engine-logo-font.png" width="80"/><br/>
       <strong>Unreal Engine 4 & 5</strong>
-    </td>
-    <td align="center">
-      <img src="https://seeklogo.com/images/G/godot-logo-F3E69DFE8D-seeklogo.com.png" width="80"/><br/>
-      <strong>Godot</strong>
-    </td>
-    <td align="center">
+      </td>
+      <td align="center">
       <img src="https://i.pinimg.com/736x/67/eb/57/67eb57d5444fdf48addcfe669bb4a31b.jpg" width="80"/><br/>
       <strong>Unity</strong>
-    </td>
+      </td>
   </tr>
 </table>
 
 <p align="center">
-  <strong>PTC Creo</strong> • 
-  <strong>SolidWorks</strong> • 
   <strong>Autodesk Inventor</strong> • 
   <strong>AutoCAD</strong> • 
-  <strong>FreeCAD</strong> •
   <strong>Unreal Engine</strong> •
-  <strong>Godot</strong> •
-  <strong>Unity</strong> •
+  <strong>Unity</strong>
 </p>
 
 <h2 align="center">Simulation & Analysis</h2>
 <p align="center">
-  <strong>ANSYS Static Structural</strong> • 
-<strong>Stress & Displacement Analysis</strong> • 
-<strong>Factor of Safety Evaluation</strong> • 
-<strong>Load Case Modeling</strong> • 
+  <strong>Stress & Displacement Analysis</strong> • 
+  <strong>Factor of Safety Evaluation</strong> • 
+  <strong>Load Case Modeling</strong> • 
 </p>
 
 <h2 align="center">Manufacturing & Fabrication</h2>
 <p align="center">
-  <strong> Wire Arc Additive Manufacturing (WAAM)</strong> • 
-<strong>LPBF Metal Printing</strong> • 
-<strong>3D Printing</strong> • 
-<strong>Design for Manufacturing (DFM)</strong> • 
-   <strong>GD&T Fundamentals</strong> •
-  <strong>Wind Turbine Components</strong>
+  <strong>LPBF Metal Printing</strong> • 
+  <strong>3D Printing</strong> • 
+  <strong>Design for Manufacturing (DFM)</strong> • 
+  <strong>GD&T Fundamentals</strong> •
+  <strong>Wind Turbine Components</strong> •
+  <strong>Product Design</strong>
 </p>
 
 ---
