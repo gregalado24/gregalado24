@@ -15,12 +15,17 @@
       </p>
 </div>
 
-<div id="header" align="center">
-   <img src="https://github.com/gregalado24/Turbine-Parts/blob/8111bcb7ee4f2a4bedf65c5be0865398c2bcfff5/Shaft%20Guide%20Bracket/Part%203%20-%2020.png" width="2542px"/>
-<div id="header" align="center">
-   <img width="2542" height="1185" alt="Screenshot 2026-01-18 223952" src="https://github.com/user-attachments/assets/45055e2f-984b-4067-9310-c9ace1509fa6" />
-    <div id="header" align="center">
-      <img width="2175" height="1189" alt="Screenshot 2026-02-23 182522" src="https://github.com/user-attachments/assets/120f9726-5a32-467b-8a05-7866f15c4c69" />
+  <div id="header" align="center">
+  <img width="2542" height="1185" alt="FlangedPipeBodyM.png" src="https://github.com/gregalado24/Product-Design-and-Manufacturing/blob/main/FlangedPipeBodyM.png" />
+
+  <div id="header" align="center">
+  <img width="2542" height="1185" alt="GuideAssembly.png" src="https://github.com/gregalado24/Product-Design-and-Manufacturing/blob/main/GuideAssembly.png" />
+    
+  <div id="header" align="center">
+  <img width="2542" height="1185" alt="Screenshot 2026-01-18 223952" src="https://github.com/user-attachments/assets/45055e2f-984b-4067-9310-c9ace1509fa6" />
+  
+  <div id="header" align="center">
+  <img width="2175" height="1189" alt="Screenshot 2026-02-23 182522" src="https://github.com/user-attachments/assets/120f9726-5a32-467b-8a05-7866f15c4c69" />
      
       
 
