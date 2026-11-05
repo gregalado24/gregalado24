@@ -112,6 +112,7 @@ My portfolio demonstrates experience in parametric CAD modeling, mechanism/produ
 ---
 
 ## Design Projects
+<p align="center"> Below Is Some Of The Work That I Have Done
 
 <table>
     <tr>
@@ -142,39 +143,28 @@ My portfolio demonstrates experience in parametric CAD modeling, mechanism/produ
 </tr>
 
 <tr>
-
-<td align="center">
-
-<b>Nutcracker-Mechanism-Assembly</b><br>
-<a href="https://github.com/gregalado24/Nutcracker.git">
-<img src="https://github.com/gregalado24/Nutcracker/blob/6dba5f710b1a7565f1575cfaa840235eb6b4f65e/nutcracker_motion.gif" width="220">
+    <td align="center">
+    <b>Nutcracker-Mechanism-Assembly</b><br>
+    <a href="https://github.com/gregalado24/Nutcracker.git">
+    <img src="https://github.com/gregalado24/Nutcracker/blob/6dba5f710b1a7565f1575cfaa840235eb6b4f65e/nutcracker_motion.gif" width="220">
 </a>
-
-</td>
-<td align="center">
-<b>Cam-Follower Mechanism</b><br>
-<a href="https://github.com/gregalado24/CamFollower_Mechanism.git">
-<img src="https://github.com/user-attachments/assets/37ee64d1-dca7-40f0-8aa8-579afce7c19c" width="220">
+    </td>
+    <td align="center">
+    <b>Cam-Follower Mechanism</b><br>
+    <a href="https://github.com/gregalado24/CamFollower_Mechanism.git">
+    <img src="https://github.com/user-attachments/assets/37ee64d1-dca7-40f0-8aa8-579afce7c19c" width="220">
 </a>
-
-</td>
-
-<td align="center">
-
-<b>Spur Gear Train</b><br>
-<a href="https://github.com/gregalado24/SpurGear_Mechanism.git">
-<img src="https://github.com/gregalado24/SpurGear_Mechanism/blob/800b3af00071c3388e3bd4c908c0b898e9a95614/exploded_view.gif" width="220">
+    </td>
+    <td align="center">
+    <b>Spur Gear Train</b><br>
+    <a href="https://github.com/gregalado24/SpurGear_Mechanism.git">
+    <img src="https://github.com/gregalado24/SpurGear_Mechanism/blob/800b3af00071c3388e3bd4c908c0b898e9a95614/exploded_view.gif" width="220">
 </a>
-
-</td>
-
-<td align="center">
-
-<b>Universal Joint Kinematics</b><br>
-<a href="https://github.com/gregalado24/Universal_Joint.git">
-<img src="https://github.com/gregalado24/Universal_Joint/blob/7749d85d1553d689220d355598d08d5c3fe3fbac/slider_crank%20motion.gif" width="220">
-
-
-
+    </td>
+    <td align="center">
+    <b>Universal Joint Kinematics</b><br>
+    <a href="https://github.com/gregalado24/Universal_Joint.git">
+    <img src="https://github.com/gregalado24/Universal_Joint/blob/7749d85d1553d689220d355598d08d5c3fe3fbac/slider_crank%20motion.gif" width="220">
+      
 </tr>
 </table>
