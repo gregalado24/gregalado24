@@ -14,6 +14,12 @@
    <img src="https://komarev.com/ghpvc/?username=gregalado24&style=flat-square&color=blueviolet" alt=""/>
       </p>
 </div>
+   
+<h1 align="center">Mechanical/Product Designer | CAD | Mechanism Simulation | Manufacturing | Virtual Environment Designer | 3-D Asset Designer </h2>
+
+<p align="center">
+Additive/Custom Manufacturing | Level Design & World Building | Video Game 3-D Model Creation 
+</p>
 
   <div id="header" align="center">
   <img width="2542" height="1185" alt="FlangedPipeBodyM.png" src="https://github.com/gregalado24/Product-Design-and-Manufacturing/blob/main/FlangedPipeBodyM.png" />
@@ -25,19 +31,9 @@
   <img width="2542" height="1185" alt="Screenshot 2026-01-18 223952" src="https://github.com/user-attachments/assets/45055e2f-984b-4067-9310-c9ace1509fa6" />
   
   <div id="header" align="center">
-  <img width="2175" height="1189" alt="Screenshot 2026-02-23 182522" src="https://github.com/user-attachments/assets/120f9726-5a32-467b-8a05-7866f15c4c69" />
-     
-      
+  <img width="2175" height="1189" alt="Screenshot 2026-02-23 182522" src="https://github.com/user-attachments/assets/120f9726-5a32-467b-8a05-7866f15c4c69" />      
 
 </div>
-   
-<h1>
-   
-<h2 align="center">Mechanical/Product Designer | CAD | Mechanism Simulation | Manufacturing | Virtual Environment Designer | 3-D Asset Designer </h2>
-
-<p align="center">
-Additive/Custom Manufacturing | Level Design & World Building | Video Game 3-D Model Creation 
-</p>
 
 ---
    
